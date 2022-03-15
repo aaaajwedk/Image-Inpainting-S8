@@ -2,7 +2,7 @@ import numpy as np
 from numpy import asarray
 import random
 from PIL import Image
-image = Image.open("D:\Project\Image-Inpainting-S8\Hole Detection\dino.jpg")
+image = Image.open("D:\Project\Image-Inpainting-S8\Black Space Detection\dino.jpg")
 # w, h = Image.size
 arr = asarray(image)
 row=0
