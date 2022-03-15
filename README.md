@@ -1,3 +1,3 @@
 # Image-Inpainting-S8
 
-new repo
+This is a repository for the Semester 8 project on Image Inpainting
